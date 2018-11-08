@@ -1,0 +1,7 @@
+
+.idea
+
+virtualvenv
+*pyc
+.env
+
